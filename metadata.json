@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 2 Copy of Happy Africa full app",
+  "description": "A mobile-first short-video social platform focusing on fast feeds and smooth playback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
